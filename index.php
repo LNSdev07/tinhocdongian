@@ -1,1 +1,1 @@
- hello tin hoc
+hello
